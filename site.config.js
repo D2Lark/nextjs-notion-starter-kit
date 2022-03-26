@@ -7,7 +7,7 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'D2Lark's Blog',
+  name: 'D2Lark Blog',
   domain: 'https://www.notion.so/My-Blog-9f4930d673ac418eb91496ee56bb8185',
   author: 'D2Lark',
 
